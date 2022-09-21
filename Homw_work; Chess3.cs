@@ -34,4 +34,4 @@ else
 {
     Console.WriteLine("Не коректные даннные! Измените входные данные!");
 }
-Console.WriteLine("Привет мир!")
+
